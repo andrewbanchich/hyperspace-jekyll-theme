@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Hyperspace" theme by HTML5 UP.
 
-![alt text](images/hyperspace.jpg "Hyperspace Theme")
+![Hyperspace Theme](images/hyperspace.jpg "Hyperspace Theme")
 
 # How to Use
 

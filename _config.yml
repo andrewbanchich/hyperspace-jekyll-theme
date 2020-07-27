@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hyperspace
-email: youremailaddress@gmail.com
+title: Rahul Shagrithaya
+email: rahulshagrithaya99@gmail.com
 description: The Jekyll version of the Hyperspace theme by HTML5 UP.
 baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
